@@ -14,7 +14,8 @@
         "好汉吧": "https://8023.haohanba.cn", 
         "DISK": "http://124.222.140.243:8080",  
         "SB盘": "http://sbpan.tk", 
-        "小雅的网盘": "http://101.34.67.237:5244", 
+        "AR7": "https://alist.arhomenet.tk/",
+        "小雅": "http://101.34.67.237:5678/",
         "西南第一捧心人": "http://116.205.232.165:5244", 
         "神族九帝(教育)": "https://alist.shenzjd.com", 
         "课程搜索": "https://www.souke365.cn", 
@@ -29,7 +30,7 @@
         "gs": "data,url"
     },
     "Ali": {
-        "token": "http://101.34.67.237/txt/json/alist.json"
+        "token": "https://ghproxy.com/https://raw.githubusercontent.com/wbg321/testknow/main/YSDD.json"
     },
     "Zhibo": [
         {
